@@ -32,7 +32,7 @@ In the future, I want to replace the motion sensor with an ESP32 camera, so it c
 https://github.com/user-attachments/assets/7ced11a1-9a1e-4262-b2aa-e0df4f15f86f
 https://github.com/user-attachments/assets/86ebec16-ee96-41d5-987d-9a42a194b60b
 https://github.com/user-attachments/assets/d640cfb4-a7dd-42f2-b2c7-ab6605e9e89c
-https://github.com/user-attachments /assets/2e05a6e7-e55f-460c-85dd-882c00ca0ef9
+https://github.com/user-attachments/assets/2e05a6e7-e55f-460c-85dd-882c00ca0ef9
 https://github.com/user-attachments/assets/4824e4fc-7fc6-4282-98c6-18ee5775a734
 https://github.com/user-attachments/assets/2db2289f-9f86-40bb-a9b7-2e24e740ad25
 https://github.com/user-attachments/assets/57a8c874-9916-48a8-bd09-f5e1c3245b17
