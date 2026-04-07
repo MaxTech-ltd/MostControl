@@ -1,5 +1,6 @@
 Basically, all my system tests were on video, but I'll explain everything here anyway.
 The first tests were static. We loaded the bridge with various loads and monitored the sensor readings and the stability of the emergency mode. The results demonstrated the successful use of this system.
 There are photos and graphs for all the tests in the README file; you can view them if you'd like.
-The next tests were dynamic, conducted using a screwdriver and homemade eccentrics (simulating an earthquake to test the accelerometer). The accelerometer showed correct vibrations and deviations of the bridge section from its normal position.
+The next tests were dynamic, conducted using a screwdriver and homemade eccentrics (simulating an earthquake to test the accelerometer). The accelerometer showed correct vibrations and deviations of the bridge
+section from its normal position.
 That's all for now. More camera tests will follow, but I haven't finished it yet.
